@@ -1,0 +1,6 @@
+{
+  "name": "api-rdbot",
+  "description": "A Whatsapp Bot Api",
+  "repository": "https://github.com/RDTUTORIAL/api-rdbot",
+  "keywords": ["node", "express", "static", "whatsapp", "api"]
+}
